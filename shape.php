@@ -54,6 +54,6 @@
     }
 
     
-$name = new Circle("4");
+$name = new Circle("");
 $name->c();
 ?>
